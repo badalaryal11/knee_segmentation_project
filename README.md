@@ -13,10 +13,9 @@ This project processes a 3D CT scan of a human knee to:
 - Detect anatomical **landmarks on the tibial surface**.
 
 ---
+```
 
 ## 🗂️ Project Structure
-
-```
 
 knee\_segmentation\_project/
 ├── data/                  # Input NIfTI image (.nii.gz)
